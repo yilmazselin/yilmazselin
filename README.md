@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" align="right" width="400" height="250">
 
-### Hi There,
-
-### I'm Selin.
+### A young girl eager to learn,
 
 ### Software Developer
 
