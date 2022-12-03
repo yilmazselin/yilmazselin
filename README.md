@@ -15,12 +15,5 @@
 <br>
 <br>
 
-1. <img src="https://github-readme-stats.vercel.app/api?username=yilmazselin&theme=dracula&hide_title=0" />
-2. 
-3. <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-4. 
-<br>
-<br>
-
 [linkedin]: https://www.linkedin.com/in/selin-y%C4%B1lmaz-9b03581a5/
 [gmail]: selinyilmazbusiness@gmail.com
