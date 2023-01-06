@@ -1,8 +1,6 @@
 <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" align="right" width="400" height="250">
 
-### A young girl eager to learn. <kbd>  a
-
-### Software Developer
+### Software Developer . <kbd>  her
 
 ### Connect With Me:
 
