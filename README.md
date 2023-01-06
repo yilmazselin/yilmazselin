@@ -2,7 +2,7 @@
 
 ### Software Developer . <kbd>  her
 
-### Connect With Me:
+### Contact With Me:
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left" /> ][linkedin]
 
